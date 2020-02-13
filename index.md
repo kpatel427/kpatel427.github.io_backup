@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bioinformatics Scientist
-subtitle: Beginner | Curious | Learner
+subtitle: Learning with the challenges | Growing with the data
 sitemap:
   priority: 0.9
 ---
