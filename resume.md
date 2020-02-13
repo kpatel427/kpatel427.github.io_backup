@@ -18,17 +18,17 @@ title: Résumé
 
 **Master of Science in Bioinformatics**  
 Georgia Institute of Technology<span style="float: right; ">Aug 2016 - Dec 2017</span>  
-<i>Atlanta, GA</i>
+*Atlanta, GA*
 
 
 **Master of Science in Bioinformatics**  
-University of Mumbai<span style="float: right; ">Jun 2014 - Apr 2016</span> 
-Mumbai, India
+University of Mumbai<span style="float: right; ">Jun 2014 - Apr 2016</span>  
+*Mumbai, India*
 
 
 **Bachelor of Science in Microbiology**   
-University of Mumbai<span style="float: right; ">Jun 2011 - Apr 2014</span> 
-Mumbai, India
+University of Mumbai<span style="float: right; ">Jun 2011 - Apr 2014</span>   
+*Mumbai, India*
 
 
 
