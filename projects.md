@@ -12,8 +12,10 @@ sitemap:
 - performed a gene abundance estimation of RNA-Seq data (i.e. quantification) for all samples in the analysis.
 - assembled transcripts were then merged into a uniform set of transcripts using StringTie merge and a quantification of merged transcripts and genes in each sample was performed.
 - Visualized assembled transcripts using GViz R Bioconductor package.
-### Tools/softwares : StringTie
-### Languages: R, python
+#### Tools/softwares : StringTie
+#### Languages: R, python
+
+
 
 ## Identifying MYCN-repressed genes in mycn-amplified pdx's
 - performed differential expression analysis using DESEQ2 for mycn-amplified cell line and Target patient data
