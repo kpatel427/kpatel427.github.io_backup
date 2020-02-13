@@ -7,7 +7,7 @@ sitemap:
 ---
 
 
-## De novo transcriptome assembly and RNA-seq quantification of aberrant ATRX transcript
+## ***De novo transcriptome assembly and RNA-seq quantification of aberrant ATRX transcript***
 - performed de novo transcriptome assembly and quantification of aberrant ATRX transcripts (ATRX - gene responsible for chromatin remodelling and lack of function of these genes result in ALT pathway activation) using StringTie.
 - performed a gene abundance estimation of RNA-Seq data (i.e. quantification) for all samples in the analysis.
 - assembled transcripts were then merged into a uniform set of transcripts using StringTie merge and a quantification of merged transcripts and genes in each sample was performed.
@@ -17,7 +17,7 @@ sitemap:
 
 
 
-## Identifying MYCN-repressed genes in mycn-amplified pdx's
+## ***Identifying MYCN-repressed genes in mycn-amplified pdx's***
 - performed differential expression analysis using DESEQ2 for mycn-amplified cell line and Target patient data
 - called peaks using MACS2 and HMCan for mycn-amplified pdx's
 - overlapped histone peaks with mycn-amp peaks
