@@ -21,7 +21,7 @@ sitemap:
 - performed statistical tests (wilcox/independent t-test/correlations) to identify significant difference in expression and correlation with MYCN expression across high risk - low risk cohorts.  
 **Statistical analysis: Wilcox, independent t-test**  
 **Tools/softwares : MACS2, Homer, HMCan**  
-**Algorithms: unsupervised clustering (hierarchical in heatmaps, PCA)**  
+**Algorithms: unsupervised clustering (hierarchical clustering), dimensionality reduction (PCA)**  
 **Languages: R, bash**  
 
 
@@ -52,7 +52,7 @@ sitemap:
 - Fetching methylation data corresponding to the targets and visualizing methylation sites in IGV  
 **Statistical analysis: Wilcox, independent t-test**  
 **Tools/softwares : MACS2, Homer, HMCan, MEME suite (FIMO, MAST), ToppGene, Enrichr**  
-**Algorithms: unsupervised clustering (hierarchical in heatmaps, PCA)**  
+**Algorithms: unsupervised clustering (hierarchical clustering), dimensionality reduction (PCA)**  
 **Languages: R, bash**  
 
 
