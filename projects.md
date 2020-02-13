@@ -20,7 +20,7 @@ sitemap:
 - Annotated the peaks and performed enriched motif searching using Homer
 - performed statistical tests (wilcox/independent t-test/correlations) to identify significant difference in expression and correlation with MYCN expression across high risk - low risk cohorts.
 #### Statistical analysis: Wilcox, independent t-test
-#### Tools/softwares : MACS2, Homer, HMCan, MEME suite (FIMO, MAST)
+#### Tools/softwares : MACS2, Homer, HMCan
 #### Algorithms: unsupervised clustering (hierarchical in heatmaps, PCA)
 #### Languages: R, bash
 
@@ -44,7 +44,7 @@ sitemap:
 #### Languages: R, bash
 
 
-## Studying motif landscape for identified targets among high-risk patient expression data
+## Studying motif landscape for identified targets among high-risk Neuroblastoma patient expression data
 - Calling enriched motifs among promoter peak regions of identified target genes.
 - Performing unsupervised clustering methods to group and visualize target genes.
 - Visualizing (oncoprints) motif occurrences in the peak regions of genes of interest.
@@ -56,7 +56,7 @@ sitemap:
 #### Languages: R, bash
 
 
-## Identifying NBL specific proteins interacting with MYC (boxes) using CRISPR data 
+## Identifying Neuroblastoma specific proteins interacting with MYC (boxes) using CRISPR data 
 - Looked at dependency scores for genes of interest using broad CCLE CRISPR screen data
 - Narrowed down genes specific to Neuroblastoma lines with those having significant difference (using statistical methods) in dependency scores when compared to non-Neuroblastoma cell lines
 - Visualized dependency score distributions between neuroblastoma and non-neuroblastoma cell lines.
@@ -65,7 +65,7 @@ sitemap:
 #### Languages: R
 
 
-## To determine bimodality of amplification in RNASeq data
+## To determine bimodality of MYCN amplification in Neuroblastoma RNASeq data
 - Used Whole Exome data to calculate MYCN depth vs exome depth
 - Correlated MYCN expr with depth to see how well they correlate
 - Overlayed mycn depth with mycn expression data across various cell lines
