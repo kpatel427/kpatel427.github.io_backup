@@ -17,7 +17,7 @@ sitemap:
 
 
 
-## ***Identifying MYCN-repressed genes in mycn-amplified pdx's***
+## Identifying MYCN-repressed genes in mycn-amplified pdx's
 - performed differential expression analysis using DESEQ2 for mycn-amplified cell line and Target patient data
 - called peaks using MACS2 and HMCan for mycn-amplified pdx's
 - overlapped histone peaks with mycn-amp peaks
