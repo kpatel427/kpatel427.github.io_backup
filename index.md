@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Khushbu Patel
-subtitle: Bioinformatics Scientist
+title: Bioinformatics Scientist
+subtitle: 
 sitemap:
   priority: 0.9
 ---
