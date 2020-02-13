@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello
-subtitle: My name is Khushbu
+title: Khushbu Patel
+subtitle: Bioinformatics Scientist
 sitemap:
   priority: 0.9
 ---
