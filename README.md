@@ -3,8 +3,8 @@ Click [here](https://kpatel427.github.io/) to visit my website
 
 
 
-> Credits
-> Creator from the theme [Pudhina](https://knhash.github.io/Pudhina/)
+### Credits
+> Created from the theme [Pudhina](https://knhash.github.io/Pudhina/)
 
-## License
+### License
 The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
