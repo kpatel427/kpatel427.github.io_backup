@@ -1,38 +1,37 @@
 ---
 layout: page
 title: Résumé
-subtitle: An awesome person
 ---
 
 <span style="float: right; "><a href="{{ '/assets/KhushbuResume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
 ### SKILLS
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
-
-### PROJECTS
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
-
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
-
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+``` 
+* Experience working in Unix/Linux System and parallelization of jobs over HPC to run routine pipelines for large number of samples.
+* 		Experience analyzing genomic (WGS,WES) and transcriptomic (RNA-Seq, ChIP-Seq) data.
+* 		Proficient coding skills in R and bash to wrangle, analyze and visualize data.
+* 		Sound knowledge of statistical concepts and implementation of statistical tests for hypothesis testing.
+* 		Experience handling and working with large data files in different formats.
+* 		Ability to effectively communicate results in the from of reports/ spreadsheets/visualizations.
+```  
 
 ### EDUCATION
 
-Institute <span style="float: right; ">Duration</span>  
+Georgia Institute of Technology<span style="float: right; ">Aug 2016 - Dec 2017</span>  
+Atlanta, GA
 **Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
+Master of Science in Bioinformatics 
  
-Institute <span style="float: right; ">Duration</span>  
+University of Mumbai<span style="float: right; ">Jun 2014 - Apr 2016</span> 
+Mumbai, India
 **Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
+Master of Science in Bioinformatics 
 
-Institute <span style="float: right; ">Duration</span>  
+University of Mumbai<span style="float: right; ">Jun 2011 - Apr 2014</span> 
+Mumbai, India
 **Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit. 
+Bachelor of Science in Microbiology  
 
 ### EXPERIENCE
 
