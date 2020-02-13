@@ -10,7 +10,7 @@ sitemap:
 ## De novo transcriptome assembly and RNA-seq quantification of aberrant ATRX transcript
 - performed *de novo* transcriptome assembly and quantification of aberrant ATRX transcripts (ATRX - gene responsible for chromatin remodelling and lack of function of these genes result in ALT pathway activation).
 - performed gene abundance estimation of RNA-Seq data (i.e. quantification) for all samples in the analysis.
-- Visualized assembled transcripts using GViz R Bioconductor package.
+- Visualized assembled transcripts using GViz R Bioconductor package.  
 **Tools/softwares : StringTie**
 **Languages: R, python**
 
