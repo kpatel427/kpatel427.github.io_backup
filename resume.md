@@ -12,7 +12,6 @@ title: Résumé
 * Proficient coding skills in R and bash to wrangle, analyze and visualize data.
 * Sound knowledge of statistical concepts and implementation of statistical tests for hypothesis testing.
 * Experience handling and working with large data files in different formats.
-* Ability to effectively communicate results in the from of reports/ spreadsheets/visualizations.
 
 ### EDUCATION
 
@@ -34,25 +33,7 @@ University of Mumbai<span style="float: right; ">Jun 2011 - Apr 2014</span>
 
 ### EXPERIENCE
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+Bioinformatics Scientist I - **The Children's Hospital of Philadelphia** <span style="float: right; ">Jul 2018 -Current</span>  
 
- 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+Bioinformatics Fellow - **Centers for Disease Control and Prevention** <span style="float: right; ">Feb 2018 - Jul 2018</span>  
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
-
-
-### RECOGNITION & INTERESTS
-
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
