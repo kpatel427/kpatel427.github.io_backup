@@ -8,13 +8,12 @@ title: Résumé
 
 ### SKILLS
 ``` 
-
-* Experience working in Unix/Linux System and parallelization of jobs over HPC to run routine pipelines for large number of samples.
-* 		Experience analyzing genomic (WGS,WES) and transcriptomic (RNA-Seq, ChIP-Seq) data.
-* 		Proficient coding skills in R and bash to wrangle, analyze and visualize data.
-* 		Sound knowledge of statistical concepts and implementation of statistical tests for hypothesis testing.
-* 		Experience handling and working with large data files in different formats.
-* 		Ability to effectively communicate results in the from of reports/ spreadsheets/visualizations.
+- Experience working in Unix/Linux System and parallelization of jobs over HPC to run routine pipelines for large number of samples.
+- Experience analyzing genomic (WGS,WES) and transcriptomic (RNA-Seq, ChIP-Seq) data.
+- Proficient coding skills in R and bash to wrangle, analyze and visualize data.
+- Sound knowledge of statistical concepts and implementation of statistical tests for hypothesis testing.
+- Experience handling and working with large data files in different formats.
+- Ability to effectively communicate results in the from of reports/ spreadsheets/visualizations.
 
 ```  
 
