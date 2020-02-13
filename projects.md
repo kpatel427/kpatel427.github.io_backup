@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: other_pages
 title: Bioinformatics Scientist
 subtitle: Beginner | Curious | Learner
 sitemap:
