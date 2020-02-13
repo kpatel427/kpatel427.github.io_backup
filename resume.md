@@ -18,7 +18,7 @@ title: Résumé
 
 **Master of Science in Bioinformatics**  
 Georgia Institute of Technology<span style="float: right; ">Aug 2016 - Dec 2017</span>  
-Atlanta, GA
+<i>Atlanta, GA</i>
 
 
 **Master of Science in Bioinformatics**  
