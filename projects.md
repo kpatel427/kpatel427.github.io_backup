@@ -25,10 +25,10 @@ sitemap:
 - visualized coverage of active and repressed genes in chipseq data of mycn-amp pdx's as heatmaps
 - identified genes associated with motifs called with high confidence values in homer
 - performed statistical tests (wilcox/independent t-test) to identify significant difference in expression across high risk - low risk and mycn amp - non-amp samples.
-### Statistical analysis: Wilcox, independent t-test
-### Tools/softwares : MACS2, Homer, HMCan, MEME suite (FIMO, MAST)
-### Algorithms: unsupervised clustering (hierarchical in heatmaps, PCA)
-### Languages: R, bash
+#### Statistical analysis: Wilcox, independent t-test
+#### Tools/softwares : MACS2, Homer, HMCan, MEME suite (FIMO, MAST)
+#### Algorithms: unsupervised clustering (hierarchical in heatmaps, PCA)
+#### Languages: R, bash
 	2a. Peak calling pipelines for chipseq data of Histone marks and TF sites
 	- Called broad (histone marks) and narrow (TF) peaks using HMCan and Macs2
 	- Annotated the peaks and performed motif searching using Homer
@@ -41,16 +41,16 @@ sitemap:
 - Multi-dataset meta analysis across datasets to get correlation between two genes, correlation of genes across MYCN status and survival data.
 - Allows user to visualize gene expression and correlations at various time points in mouse-human hybrid time-series data
 - Fetched, formatted and normalized (RMA normalization using Affy R package) NBL datasets from NCBI GEO (GEOQuery R package)
-### Statistical analysis: correlations, ANOVA, t-test
-### Tools/softwares : RShiny, R
-### Languages: R
+#### Statistical analysis: correlations, ANOVA, t-test
+#### Tools/softwares : RShiny, R
+#### Languages: R
 
 ## Deconvulate Human and murine reads from RNASeq tumor data
 - Using BBSplit tool (BBMAP tool)
 - Aligning reads to respective ref genome 
 - Calling gene abundance estimations
-### Tools/softwares : BBSplit(BBMap suite), STAR
-### Languages: R, bash
+#### Tools/softwares : BBSplit(BBMap suite), STAR
+#### Languages: R, bash
 
 ## Studying motif landscape for identified targets among high-risk patient expression data
 - Calling enriched motifs (Homer) among promoter peak regions of identified target genes.
@@ -58,17 +58,17 @@ sitemap:
 - Visualizing motif occurrences in peak region of genes of interest by generating oncoprints.
 - Visualizing CpG islands among the peak regions in IGV
 - Fetching methylation data corresponding to the targets and visualizing methylation sites in IGV
-### Statistical analysis: Wilcox, independent t-test
-### Tools/softwares : MACS2, Homer, HMCan, MEME suite (FIMO, MAST), ToppGene, Enrichr
-### Algorithms: unsupervised clustering (hierarchical in heatmaps, PCA)
-### Languages: R, bash
+#### Statistical analysis: Wilcox, independent t-test
+#### Tools/softwares : MACS2, Homer, HMCan, MEME suite (FIMO, MAST), ToppGene, Enrichr
+#### Algorithms: unsupervised clustering (hierarchical in heatmaps, PCA)
+#### Languages: R, bash
 
 ## Identifying NBL specific proteins interacting with MYC (boxes) using CRISPR data 
 - Looked at dependency scores for genes of Interest using broad CCLE CRISPR screen data
 - Narrowed down genes specific to NBL with those having significant difference (using statistical methods) in dependency scores across NBL and non-NBL lines
-### Statistical analysis: Wilcox
-### Algorithms: dimensionality reduction (PCA)
-### Languages: R
+#### Statistical analysis: Wilcox
+#### Algorithms: dimensionality reduction (PCA)
+#### Languages: R
 
 ## Applying regression methods to identify genes contributing to density/resistance of cellLines to certain drug (MM4)
 
@@ -76,6 +76,6 @@ sitemap:
 - Used Whole Exome data to calculate MYCN depth vs exome depth
 - Correlated MYCN expr with depth to see how well they correlate
 - Overlayed mycn depth with mycn expression data across various cell lines
-### Tools/softwares : bedtools
-### Languages: R, bash
+#### Tools/softwares : bedtools
+#### Languages: R, bash
 
