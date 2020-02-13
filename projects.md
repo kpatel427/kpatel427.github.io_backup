@@ -29,11 +29,12 @@ sitemap:
 #### Tools/softwares : MACS2, Homer, HMCan, MEME suite (FIMO, MAST)
 #### Algorithms: unsupervised clustering (hierarchical in heatmaps, PCA)
 #### Languages: R, bash
-	2a. Peak calling pipelines for chipseq data of Histone marks and TF sites
-	- Called broad (histone marks) and narrow (TF) peaks using HMCan and Macs2
-	- Annotated the peaks and performed motif searching using Homer
-	- created a list of genes associated with the most significant motif hits
-	- Generating heatmaps from ChIP-Seq data to visualize enhancers, super-enhancers and promoters called (using ROSE and LILY) around TSS
+
+## Peak calling pipelines for chipseq data of Histone marks and TF sites
+- Called broad (histone marks) and narrow (TF) peaks using HMCan and Macs2
+- Annotated the peaks and performed motif searching using Homer
+- created a list of genes associated with the most significant motif hits
+- Generating heatmaps from ChIP-Seq data to visualize enhancers, super-enhancers and promoters called (using ROSE and LILY) around TSS
 
 ## Pediatric Cancer Web Portal
 - Rshiny Web app to visualize and analyze transcriptomic data from PDXs, cell line and patient data along with associated metadata (MYCN Status, TP53 Status and ALK Status)
