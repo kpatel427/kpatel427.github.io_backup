@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bioinformatics Scientist
-subtitle: 
+subtitle: Beginner | Curious | Learner
 sitemap:
   priority: 0.9
 ---
