@@ -67,9 +67,9 @@ sitemap:
 
 
 ## To determine bimodality of MYCN amplification in Neuroblastoma RNASeq data
-- Used Whole Exome data to calculate MYCN depth vs exome depth
-- Correlated MYCN expression with depth to see how well they correlate
-- Overlayed mycn depth with mycn expression data across various cell lines to visualize if MYCN copy number align with MYCN expression levels  
+- Used Whole Exome data to calculate MYCN depth and exome depth
+- Visualized correlation of MYCN expression with depth across MYCN amplified and MYCN non-amplified lines
+- Compared MYCN depth with MYCN expression data to visualize if MYCN copy number align with MYCN expression levels in various Neuroblastoma cell lines
 **Tools/softwares : bedtools**  
 **Languages: R, bash**  
 
