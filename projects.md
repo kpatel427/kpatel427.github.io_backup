@@ -15,7 +15,7 @@ sitemap:
 **Languages: R, python**
 
 
-## Identification of MYCN repressed targets to elucidate their role in immune evasion
+## Identification of MYCN repressed targets and understanding their role in immune evasion
 - Called broad (histone marks) and narrow (TF) peaks using HMCan and Macs2
 - Annotated the peaks and performed enriched motif searching using Homer
 - performed statistical tests (wilcox/independent t-test/correlations) to identify significant difference in expression and correlation with MYCN expression across high risk - low risk cohorts.  
@@ -39,8 +39,9 @@ sitemap:
 ## Deconvulate Human and murine reads from RNASeq tumor data
 - Using BBSplit tool (BBMAP tool) on RNASeq tumor reads
 - Aligning reads to respective reference genome 
+- Performing post-alignment quality control and report generation
 - Calling gene abundance estimations  
-**Tools/softwares : BBSplit(BBMap suite), STAR**  
+**Tools/softwares : BBSplit(BBMap suite), STAR, Multi-QC**  
 **Languages: R, bash**  
 
 
@@ -56,7 +57,7 @@ sitemap:
 **Languages: R, bash**  
 
 
-## Identifying Neuroblastoma specific proteins interacting with MYC (boxes) using CRISPR data 
+## Identifying Neuroblastoma specific proteins interacting with MYC (boxes) using CRISPR screen data 
 - Looked at dependency scores for genes of interest using broad CCLE CRISPR screen data
 - Narrowed down genes specific to Neuroblastoma lines with those having significant difference (using statistical methods) in dependency scores when compared to non-Neuroblastoma cell lines
 - Visualized dependency score distributions between neuroblastoma and non-neuroblastoma cell lines.  
@@ -67,8 +68,8 @@ sitemap:
 
 ## To determine bimodality of MYCN amplification in Neuroblastoma RNASeq data
 - Used Whole Exome data to calculate MYCN depth vs exome depth
-- Correlated MYCN expr with depth to see how well they correlate
-- Overlayed mycn depth with mycn expression data across various cell lines  
+- Correlated MYCN expression with depth to see how well they correlate
+- Overlayed mycn depth with mycn expression data across various cell lines to visualize if MYCN copy number align with MYCN expression levels  
 **Tools/softwares : bedtools**  
 **Languages: R, bash**  
 
