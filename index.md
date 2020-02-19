@@ -5,7 +5,6 @@ subtitle: Learning with the challenges | Growing with the data
 sitemap:
   priority: 0.9
 ---
-
 <img src="{{ '/assets/img/DNA.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
