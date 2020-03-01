@@ -73,3 +73,10 @@ sitemap:
 **Tools/softwares : bedtools**  
 **Languages: R, bash**  
 
+
+## ggQuickPlotR (https://github.com/visionRs/ggQuickPlotR)
+- Developed to open source GUI to generate plots using ggplot2 RShiny web app.
+**Tools/softwares : RShiny**  
+**Languages: R**  
+
+
