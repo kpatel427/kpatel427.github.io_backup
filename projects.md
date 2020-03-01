@@ -77,7 +77,7 @@ sitemap:
 ## Web App: ggQuickPlotR (https://github.com/visionRs/ggQuickPlotR)
 - Developed an open source GUI to generate plots using ggplot2 RShiny web app
 - Generates ggplot2 plots as well as interactive plots (using plotly) and provides user with the code to generate plots
-- Allows user to plot by uploading data or using data present in the environment
+- Allows user to plot by uploading data or using data present in the environment  
 **Tools/softwares : RShiny, plotly**  
 **Languages: R**  
 
