@@ -1,3 +1,5 @@
+# My story
+
 ---
 layout: other_pages
 title: My story
