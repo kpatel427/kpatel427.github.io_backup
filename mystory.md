@@ -7,3 +7,5 @@ sitemap:
 ---
 
 currently being writtern
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kpatel427.kpatel427.github.io)
