@@ -2,7 +2,6 @@
 layout: other_pages
 title: My story
 subtitle: test
-comments: True
 sitemap:
   priority: 0.9
 ---
