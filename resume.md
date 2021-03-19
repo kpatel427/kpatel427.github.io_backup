@@ -3,7 +3,7 @@ layout: page
 title: Résumé
 ---
 
-<span style="float: right; "><a href="{{ '/assets/KhushbuResume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
+<span style="float: center; "><a href="{{ '/assets/KhushbuResume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
 ### SKILLS
@@ -33,7 +33,7 @@ University of Mumbai<span style="float: right; ">Jun 2011 - Apr 2014</span>
 
 ### EXPERIENCE
 
-Bioinformatics Scientist I - **The Children's Hospital of Philadelphia** <span style="float: right; ">Jul 2018 -Current</span>  
+Bioinformatics Scientist II - **The Children's Hospital of Philadelphia** <span style="float: right; ">Jul 2018 -Current</span>  
 
 Bioinformatics Fellow - **Centers for Disease Control and Prevention** <span style="float: right; ">Feb 2018 - Jul 2018</span>  
 
