@@ -1,5 +1,5 @@
 ---
-layout: story
+layout: other_pages
 title: My story
 subtitle: test
 sitemap:
