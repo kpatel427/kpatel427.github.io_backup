@@ -5,9 +5,6 @@ subtitle: test
 sitemap:
   priority: 0.9
 ---
-
-currently being written
-
 ![title](screenshots/IMG_1338.PNG)
 
 
