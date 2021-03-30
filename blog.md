@@ -1,8 +1,16 @@
 ---
+title: Tag Archive
+layout: tags
+permalink: /tags/
+show_excerpts: true
+entries_layout: list
+---
+
+<!---
 layout: page
 title: Blog
 subtitle: Select ramblings of Pudhina
----
+--- -->
 
 <div>
 {% assign postsCategory = site.posts | group_by_exp:"post", "post.categories"  %}
